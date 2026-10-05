@@ -9,11 +9,10 @@ on:
 jobs:
     print:
      runs-on: ubuntu-latest
+    steps:
+     -uses: actions/checkout@v4
 
-   steps:
-     - uses: actions/checkout@v4
-
--name:Print file1
-  run:cat file1.txt
--name:Print file2
-  run:cat file2.txt
+     -name:Print file1
+     run:cat file1.txt
+     -name:Print file2
+     run:cat file2.txt
