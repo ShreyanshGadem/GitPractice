@@ -1,0 +1,2 @@
+Hello, i am becomming Git exxpert
+This is the second step i took to learn Git commands and understand it clearly.
