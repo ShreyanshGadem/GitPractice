@@ -1,6 +1,6 @@
 Hello, i am becoming Git expert
 This is the second step i took to learn Git commands and understand it clearly.
-i am learning workflow even after failing so i changed code in yaml file
+im learning workflow even after failing so i changed code in .yml file
 i am adding 4th line to file2.txt
 i added 5th line also
 
