@@ -1,0 +1,3 @@
+Go to the repository we want to contribute to on GitHub.
+Click the Fork button at the top right.
+Once forked, navigate to your GitHub profile and open the forked repository
