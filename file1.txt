@@ -1,2 +1,3 @@
 Hello World, I am learning Git as a begineer
 hello i am tester
+This is the 3rd day im learning Git
